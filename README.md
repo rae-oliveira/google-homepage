@@ -1,0 +1,1 @@
+This project is a clone of google's homepage and it's a part of The Odin Project Fundations Path. The goal is to practice my HTML/CSS skills.
